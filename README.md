@@ -10,7 +10,7 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
 4.Streamlit
 
 Selenium is one of the most widely used open source Web UI (User Interface) automation testing suite.
-Using python and selenium , we extracted the detailed information from Redbus, including bus routes, schedules, prices, and seat availability.
+Using python and selenium , we extracted the detailed information from Redbus including bus routes, schedules, prices, and seat availability.
 Stored the collected data in mysql database using python
 Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps. Once you’ve created an app, you can use our Community Cloud platform to deploy, manage, and share your app.
 
